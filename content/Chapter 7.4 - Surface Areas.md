@@ -1,13 +1,10 @@
 ---
-title: Example Title
+title: Chapter 7.4 - Surface Areas
 draft: false
 tags:
   - example-tag
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-The general definition is $\int_a^b ||\vec{T_u} \times \vec{T}_v||\, du\,dv$ (look up tangent vectors here [[Chapter 7.3 - Parametrized Surfaces]]. (1) How do you actually justify the cross product inside the integral? (2) How do you derive the formula for the surface area of a function $f(x,y)=z$. (3) How do you derive the formula for the surface area of a revolution of a one-variable function (Just state the parametrization since other part is similar).
+ The general definition is $\int_a^b ||\vec{T_u} \times \vec{T}_v||\, du\,dv$ (look up tangent vectors here [[Chapter 7.3 - Parametrized Surfaces]]. (1) How do you actually justify the cross product inside the integral? (2) How do you derive the formula for the surface area of a function $f(x,y)=z$. (3) How do you derive the formula for the surface area of a revolution of a one-variable function (Just state the parametrization since other part is similar).
 Very interesting fact! The parametrization for a **Torus** can be given by:
 $$x = (R+\cos(\phi))\cos(\theta), \; y = (R+\cos(\phi))\sin(\theta)),\; z =\sin(\phi)$$
 The problem that you couldn't solve: 

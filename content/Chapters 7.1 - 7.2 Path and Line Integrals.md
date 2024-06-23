@@ -1,13 +1,10 @@
 ---
-title: Example Title
+title: Chapters 7.1 - 7.2 Path and Line Integrals
 draft: false
 tags:
   - example-tag
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-if we have a function $f: R^3 \rightarrow R$, then we can define a path integral over a curve$\int_c f ds = \int_a^b f(c(t))\cdot ||c^{'}(t)||dt$ . This basically means divide your path over billion subpaths, evaluate a function at each point and sum. The formal proof involves *Mean Value Theorem*. 
+If we have a function $f: R^3 \rightarrow R$, then we can define a path integral over a curve$\int_c f ds = \int_a^b f(c(t))\cdot ||c^{'}(t)||dt$ . This basically means divide your path over billion subpaths, evaluate a function at each point and sum. The formal proof involves *Mean Value Theorem*. 
 * When the path is 2D and $f \geq0$ , what is the geometric interpretation of your integral ?
 
 By a similar logic, if we have a vector field $\textbf{F}$ , then its line integral is $\int_a^b \textbf{F}(c(t))\cdot d\textbf{s}$ . There is also a cool moment in its derivation. When a particle moves from $t$ to $t+\Delta t$ , then its displacement vector is $c(t+\Delta t) - c(t)$ . As $\Delta t \rightarrow 0$, the expression becomes $c^{'}(t)dt$ , which is $d\vec{s}$. From this on, I will start asking questions :)

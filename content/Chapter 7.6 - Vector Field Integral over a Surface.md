@@ -1,14 +1,9 @@
-
-
 ---
-title: Example Title
+title: Chapter 7.6 - Vector Field Integral over a Surface
 draft: false
 tags:
   - example-tag
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
 
 In an analogy to the Line Integral ([[Chapter 7.1 - 7.2 Path and Line Integrals]]), the surface integral of $\textbf{F}$ has a dot product. Namely, it equals $\int_S \textbf{F} \cdot d\textbf{S}$ , with the parametrization $\Phi$ ([[Chapter 7.3 - Parametrized Surfaces]]), we have that $\int \int_D \vec{F} \cdot (\vec{T_u} \times \vec{T_v})\; du\; dv$. 
 (1) Recall what is the parametrization of a unit sphere, and compute the integral with $\vec{F} = \vec{r}$, position vector field.
