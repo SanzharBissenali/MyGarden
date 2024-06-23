@@ -1,7 +1,10 @@
 If we have two charges $q_1, q_2$ , then the interaction between them is described by Coulomb's law.
+
 $$
 \textbf{F}_2 = \frac{q_1q_2}{4\pi\epsilon_0r^2}\cdot \hat{r_{12}}
-$$where the unit vector is pointed from $q_1$ to $q_2$. One of the foundational observations is that Coulomb's law is additive, which means that no matter how many charges we have in our system we can use Coulomb's law to calculate the interaction between them. If we have 3 charges ($q_1, q_2, q_3$), what is the force on $q_3$ (1)? The additivity of Coulomb's law leads to **Superposition** principle.
+$$
+
+where the unit vector is pointed from $q_1$ to $q_2$. One of the foundational observations is that Coulomb's law is additive, which means that no matter how many charges we have in our system we can use Coulomb's law to calculate the interaction between them. If we have 3 charges ($q_1, q_2, q_3$), what is the force on $q_3$ (1)? The additivity of Coulomb's law leads to **Superposition** principle.
 
 #### Energy
 ---
@@ -9,6 +12,7 @@ Now, imagine we have a charge $q_1$, and we bring $q_2$ to it from infinitely fa
 $$
 W = \int_{C}\textbf{F}\cdot d\textbf{s} 
 $$, where C is the curve (path or line) we take. Let's consider the easiest path $\rightarrow$ straight line. 
+
 $$
 W = \int_{\infty}^r Fdr = \int_{\infty}^r \frac{q_1q_2}{4\pi\epsilon_0r^2} dr = -\frac{q_1q_2}{4\pi\epsilon_0r} 
 $$I forgot about the minus sign: how do we get rid of it (2)? We claim that *no matter what path* we take *the integral calculated above is the same*. So, wiggle the electron as you wish, but the $W$ does not change! This can be proven in many ways, but one is to show that Vector Field of the Force is conservative. So, take the curl!  ($\nabla \times \vec{F}$) (3)

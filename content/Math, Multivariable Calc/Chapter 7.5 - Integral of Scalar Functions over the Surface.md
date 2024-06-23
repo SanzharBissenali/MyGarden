@@ -4,7 +4,8 @@ draft: false
 tags:
   - example-tag
 ---
- You can think of this as a generalization of a path integrals [[Chapter 7.1 - 7.2 Path and Line Integrals]]. The general definition is given by $$
+ You can think of this as a generalization of a path integrals [[Chapter 7.1 - 7.2 Path and Line Integrals]]. The general definition is given by 
+ $$
  \int f(\Phi(u,v))\cdot ||\vec{T_u}\times \vec{T_v}||du\;dv)
  $$ Recall that the latter part of the integral is just the Surface Area of $S$ [[Chapter 7.4 - Surface Areas]]. It is easy to derive the formula for when $S$ is $f(x,y)$, and easy to compute it when it is a rectangular $D$ or x/y-simple regions [[Double Integrals over General Regions]]. (1) For $S$ sphere, find $||\vec{T_u}\times \vec{T_v}||$ . (2) When your surface has a constant angle $\theta$ relative to the xy plane, what is a simplification you can/should use. Justify the simplification. 
 
