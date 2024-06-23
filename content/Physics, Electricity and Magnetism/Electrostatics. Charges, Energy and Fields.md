@@ -59,10 +59,11 @@ The last nuance is related to the direction! We have multiply by $\cos(\theta)$.
 It took me quite a bit to fully understand this, so when you read it first time, you might as well leave it to come back later with more experience. To practice similar set of skills, look at problems 1.12, 1.14
 #### Answer to Questions 
 ---
-
-1) $$
+1) 
+$$
 \textbf{F}_3 = \frac{q_1q_3}{4\pi\epsilon_0r_{13}^2}\cdot \hat{r}_{13}\; + \frac{q_2q_3}{4\pi\epsilon_0r_{23}^2}\cdot \hat{r}_{23} 
 $$
+
 
 2) The actual integral had a applied force multiplied by a distance. We took Coulomb's force which is the opposite.
 3) Curl would be zero, which from multivariable calculus [[Conservative Vector Fields]] is equivalent to the fact that the line integral between to two points is the same independent of a path taken.
