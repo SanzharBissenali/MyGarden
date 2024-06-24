@@ -1,3 +1,9 @@
+---
+title: Example Title
+draft: false
+tags:
+  - physics
+---
 We define the flux of a field through some surface as:
 
 $$

@@ -2,7 +2,7 @@
 title: Chapter 7.3 - Parametrized Surfaces
 draft: false
 tags:
-  - example-tag
+  - math
 ---
 
 Not all the surfaces (like torus) can be represented as graphs of x and y (why?). To counter this, we need another way of representing them. For example, $\Phi(u,v) = (x(u,v), y(u,v), z(u,v))$  

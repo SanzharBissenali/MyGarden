@@ -2,7 +2,7 @@
 title: Chapter 7.5 - Integral of Scalar Functions over the Surface
 draft: false
 tags:
-  - example-tag
+  - math
 ---
  You can think of this as a generalization of a path integrals [[Chapter 7.1 - 7.2 Path and Line Integrals]]. The general definition is given by 
  

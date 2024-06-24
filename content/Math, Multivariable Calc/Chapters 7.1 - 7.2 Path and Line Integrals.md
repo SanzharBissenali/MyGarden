@@ -2,7 +2,7 @@
 title: Chapters 7.1 - 7.2 Path and Line Integrals
 draft: false
 tags:
-  - example-tag
+  - math
 ---
 If we have a function $f: R^3 \rightarrow R$, then we can define a path integral over a curve$\int_c f ds = \int_a^b f(c(t))\cdot ||c^{'}(t)||dt$ . This basically means divide your path over billion subpaths, evaluate a function at each point and sum. The formal proof involves *Mean Value Theorem*. 
 * When the path is 2D and $f \geq0$ , what is the geometric interpretation of your integral ?
