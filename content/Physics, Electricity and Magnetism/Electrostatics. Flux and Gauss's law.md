@@ -31,7 +31,7 @@ U = \frac{\epsilon_0}{2}\int E^2dv
 $$
 ### Problem 
 ---
-It would be a fine exercise to calculate the energy of a uniformly charged sphere ($\rho$) from scratch.
+It would be a fine exercise to calculate the energy of a uniformly charged sphere ($\rho$) from scratch. [[Problems solved about Electrostatics (Purcell Ch. 1)]]
 #### Answers to questions
 --- 
 1) Zero divergence means that the net flux through a given surface is zero. So, we may attach any weirdly shaped object to a sphere, and this would not change the Flux.

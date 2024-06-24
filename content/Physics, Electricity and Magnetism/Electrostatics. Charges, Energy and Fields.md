@@ -63,6 +63,7 @@ $$
 
 The last nuance is related to the direction! We have multiply by $\cos(\theta)$. Why? By symmetry, it has to point above (not down, because it repels). So, when we sum we only care about the vertical component because horizontal ones cancel anyway. This is where additional $\cos(\theta)$ comes from.
 It took me quite a bit to fully understand this, so when you read it first time, you might as well leave it to come back later with more experience. To practice similar set of skills, look at problems 1.12, 1.14
+[[Problems solved about Electrostatics (Purcell Ch. 1)]]
 #### Answer to Questions 
 ---
 1) 
