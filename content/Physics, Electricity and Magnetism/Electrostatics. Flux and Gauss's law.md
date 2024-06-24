@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Electrostatics. Flux and Gauss's law
 draft: false
 tags:
   - physics

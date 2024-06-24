@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Electrostatics. Charges, Energy and Fields
 draft: false
 tags:
   - physics
