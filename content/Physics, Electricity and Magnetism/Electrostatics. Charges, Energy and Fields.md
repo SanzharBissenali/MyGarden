@@ -43,6 +43,7 @@ $$
 $$ 
 This is a **vector field**, which means that it is a function that assigns to every point in space (x,y,z) a vector. Take a minute to digest this information. Below is the field of a positive charge. At each point it shows the direction and relative magnitude of force per unit charge.
 
+
 ![[Pasted image 20240622222655.png|300]]
 Now, imagine we have a body that is described by the charge density function $\rho(x,y,z)$ (e.g banana). We can calculate the field of this object by moving from discrete sum to continuous (integral):
 
