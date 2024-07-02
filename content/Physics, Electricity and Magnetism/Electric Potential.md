@@ -12,7 +12,7 @@ $$
 $$
 One interesting exercise is to calculate the potential on the rim of a charged disk (Ex 4 in Chapter 2). Key point was to splice the ring into wedges with varying length $l = 2a\cos(\theta)$.
 
-**Very cool property** that follows from math, but can be also explained physically is that electric field is perpendicular to equipotential surface. First, think about the climbing up the hill. Second, the statement must be true, because if $\textbf{E}$ had a parallel component then it would require some energy to move charge along the *equipotential surface*.
+**Very cool property** that follows from math, but can be also explained physically is that electric field is perpendicular to equipotential surface. First, think about the climbing up the hill. Second, the statement must be true, because if $\textbf{E}$ had a parallel component then it would require some energy to move charge along the **equipotential surface**.
 
 ### Answers
 ---

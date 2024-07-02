@@ -27,7 +27,9 @@ $$
 
 #### Earnshaw's theorem 
 ---
-It states that it is impossible to construct a static electric field that will hold a charge at a stable* equilibrium. One way to prove it is to use Gauss's law; walk through the proof (2). The second proof involves *the property* of a potential function.
+It states that it is impossible to construct a static electric field that will hold a charge at a *stable* equilibrium. One way to prove it is to use Gauss's law; walk through the proof (2). The second proof involves *the property* of a potential function.
+
+Stable equilibrium example - sphere of uniformly distributed negative charge and two protons inside. Why *Earnshaw's* theorem "fails" (it doesn't fail actually)?
 
 
 
