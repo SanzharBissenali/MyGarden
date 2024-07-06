@@ -1,3 +1,11 @@
+---
+title: Example Title
+draft: false
+tags:
+  - StatLearning
+---
+ 
+
 First, we should answer the question: how do we know if a model performs well? One way to do it is to compute the **Mean Squared Error** (MSE):
 
 $$

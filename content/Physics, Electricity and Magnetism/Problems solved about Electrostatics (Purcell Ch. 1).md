@@ -1,5 +1,5 @@
 ---
-title: List of Problems Solved in Purcell Chapter 1
+title: Problems solved about Electrostatics (Purcell Ch. 1)
 draft: false
 tags:
   - physics

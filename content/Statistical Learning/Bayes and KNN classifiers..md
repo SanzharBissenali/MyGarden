@@ -1,3 +1,11 @@
+---
+title: Example Title
+draft: false
+tags:
+  - StatLearning
+---
+ 
+
 ### Bayes Classifier
 ---
 Bayes classifier is the golden (unattainable) standard in classifying problems. It makes it decision based on a **conditional probability** and assigns an observation to the most likely class:
