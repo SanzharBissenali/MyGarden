@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Bayes and KNN classifiers.
 draft: false
 tags:
   - StatLearning

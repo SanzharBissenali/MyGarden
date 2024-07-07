@@ -5,7 +5,6 @@ tags:
   - physics
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 ### Divergence
 ---
 Through an infinite subdivision of a surface integral, we can define divergence as:
@@ -38,6 +37,10 @@ $$
 It states that it is impossible to construct a static electric field that will hold a charge at a *stable* equilibrium. One way to prove it is to use Gauss's law; walk through the proof (2). The second proof involves *the property* of a potential function.
 
 Stable equilibrium example - sphere of uniformly distributed negative charge and two protons inside. Why *Earnshaw's* theorem "fails" (it doesn't fail actually)?
+
+### Quick reminder
+---
+Recall the definitions of divergence and curl, and the way to arrive at them. Then, think about the Stokes' and Gauss's theorems. Understanding the definitions makes the theorems straightforward. (If you forgot, then look at Chapter 2.7, 2.8 & 2.14, 2.15).
 
 
 

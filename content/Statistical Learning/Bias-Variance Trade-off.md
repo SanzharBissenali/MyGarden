@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Bias-Variance Trade-off
 draft: false
 tags:
   - StatLearning

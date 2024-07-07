@@ -1,5 +1,5 @@
 ---
-title: Problems solved about Electric potential (Purcell Ch.)
+title: Problems solved about Electric potential (Purcell Ch.2)
 draft: false
 tags:
   - physics
@@ -66,9 +66,9 @@ tags:
     
 - [x] 2.38: Just calculation
     
-- [x] 2.39: $\ce{Ag_47}$
+- [x] 2.39: $Ag_{47}$
     
-    Forgot about the energy conservation. Additionally, acceleration through potential $\phi$ gives energy $\ce{E} = q\cdot\phi$.
+    Forgot about the energy conservation. Additionally, acceleration through potential $\phi$ gives energy $\textbf{E} = q\cdot\phi$.
     
 - [x] 2.43: Homework Review - potential of a Rod
     
@@ -86,15 +86,15 @@ tags:
     
     Relies on the result of 2.46 & superposition. Relatively easy, although almost made a mistake by forgetting a factor of 2. The result is also consistent with the dimensional analysis made in the problem 2.35, 2.04
     
-- [x] **2.57: Four star problem**
+- [x] 2.57: Four star problem
     
     Actually, not that hard. Involves a little bit of geometry, but the point is to understand how you integrate over the thin wedges (at the center or off the center). My main mistake was in the finding the leading terms during Taylor expansion. Note that when there is no clear $\epsilon \rightarrow 0$, just introduce another variable s.t. it will go zero, and then do math (p.2 in b) ).
     
-- [x]  **2.63: Dipoles formed by two wires**
+- [x] 2.63: Dipoles formed by two wires
     
     Got beaten a little bit by this problem. Some points to remember: calculating the $\phi$ relative to fixed points (not infinity; remember that the main formula is with respect to infinity), using right approximations for distant points, or rather finding a good set up. The last part of the problem with finding constant potential and constant $\textbf{E}$ is still not that clear.
     
-- [ ]  **2.64: TAYLOR EXPANSION !!!**
+- [ ] 2.64: TAYLOR EXPANSION !!!
     
     Used the wrong expansion. Have to redo the problem later …
     
@@ -111,4 +111,3 @@ tags:
 - [x] 2.79: squrl$(\textbf{F})$
     
     Fast and easy problem, hint gives away too much.
-    
