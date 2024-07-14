@@ -24,3 +24,7 @@ $$
 The last term is inherently random, and we can't really get rid of it. Whereas first two terms can be minimized, but it's still tricky. (4) Intuitively, what is variance and bias of $\hat{f}\;?$ (5) What's the connection between them and flexibility? Alternatively, just explain what's happening in the graph: black is the real $f$, orange is linear regression. 
 
 ![[Pasted image 20240630111641.png]]
+### Answers
+---
+4) Variance refers to a variation of the predicted value by $\hat{f}$ if we used a different data set to train it. Bias refers to an error introduced by approximation/simplification that a model uses.
+5) More flexible method $\rightarrow$ low bias, but high variance. Not a flexible method $\rightarrow$ low variance, but high bias.

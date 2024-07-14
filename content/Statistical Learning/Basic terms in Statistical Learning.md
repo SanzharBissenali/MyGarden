@@ -8,4 +8,4 @@ Imagine, we want to know about the price of a house, knowing about its character
 
 There are mainly two ways to estimate $f$: **parametric** and **non-parametric** methods. The first one starts with an assumption, e.g the relation is linear. This simplifies the calculation, but usually results in less accurate predictions. The non-parametric method does not start with an explicit assumption and gives a function that is *not too rough or wiggly*. However, they require much larger *data set* to give accurate predictions. One of the trade-offs between two methods is that the parametric is usually more interpretable, hence is used for inference.
 
-In the supervised learning, the model has an access to output variables, but in an unsupervised learning there is no response variables. The model tries to *learn* from unlabeled data. 
+In the supervised learning, the model has an access to output variables, but in an unsupervised learning there are no response variables. The model tries to *learn* from an unlabeled data. 
