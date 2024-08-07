@@ -1,6 +1,6 @@
 ---
 title: Chapter 7.6 - Vector Field Integral over a Surface
-draft: false
+draft: true
 tags:
   - math
 ---

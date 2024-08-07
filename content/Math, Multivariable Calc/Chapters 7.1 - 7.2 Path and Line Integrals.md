@@ -1,6 +1,6 @@
 ---
 title: Chapters 7.1 - 7.2 Path and Line Integrals
-draft: false
+draft: true
 tags:
   - math
 ---

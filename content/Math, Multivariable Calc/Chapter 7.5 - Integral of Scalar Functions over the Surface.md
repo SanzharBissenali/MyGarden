@@ -1,6 +1,6 @@
 ---
 title: Chapter 7.5 - Integral of Scalar Functions over the Surface
-draft: false
+draft: true
 tags:
   - math
 ---

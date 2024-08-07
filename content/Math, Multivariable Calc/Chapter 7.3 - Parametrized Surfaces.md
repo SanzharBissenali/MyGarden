@@ -1,6 +1,6 @@
 ---
 title: Chapter 7.3 - Parametrized Surfaces
-draft: false
+draft: true
 tags:
   - math
 ---

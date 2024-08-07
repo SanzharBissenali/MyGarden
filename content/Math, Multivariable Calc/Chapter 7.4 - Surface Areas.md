@@ -1,6 +1,6 @@
 ---
 title: Chapter 7.4 - Surface Areas
-draft: false
+draft: true
 tags:
   - math
 ---
