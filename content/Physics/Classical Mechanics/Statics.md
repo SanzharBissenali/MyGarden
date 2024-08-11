@@ -1,4 +1,5 @@
-Honestly, there is not much thing to say here except: "Go and solve some problems", but anyway I'll leave some interesting facts/ideas.
+Honestly, there is not much thing to say here except: "Go and solve some problems", but anyway I'll leave some interesting facts/ideas. 
+
 ### Moments to note
 - Every piece of rope feels **Tension in both directions** ([[Newton's laws]]). Sometimes it's the same along it (massless rope) and other times it's not.
  - There are two **frictions**: kinetic and **static**. $f_{k} = \mu_{k}N$, while static $f_s \leq \mu_s N$. The way to remember it is just a *thought experiment*. If an object stands on the ground and you slightly push it, then it stays there (lol). But it $f_s = \mu_s N$ (note equality), then it means that standing object slides to the left, when you just barely push it to the right. So, the equality is true at the **limiting case**!

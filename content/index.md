@@ -13,4 +13,4 @@ Throughout the last year, my interests shifted from organic chemistry to physics
 The site is currently being built, but here are some interesting stuff:
 - Physics, my notes from reading Purcell (E&M, [[Electric Potential]]), and Morin's Classical Mechanics ([[Newton's laws]])
 - Statistical learning, my notes from [Intro to SL](https://www.statlearning.com)
-- Essays or idea dumps (in russian), where I just talk about my life and experiences.
+- Essays or idea dumps (in russian), where I just talk about my life experiences ([[Цель cайта]]).
