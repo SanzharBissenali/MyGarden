@@ -15,11 +15,12 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOMM4LzM4ChiKT',
       }
     }),
+    Component.MobileOnly(Component.Explorer()),
   ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Community of Ask": "https://ask.bc-pf.org",
     },
   }),
 }
@@ -35,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    // Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
@@ -46,6 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -53,7 +55,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    // Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
