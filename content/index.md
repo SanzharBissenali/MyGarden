@@ -4,7 +4,7 @@ title: Sanzhar's notebook
  
  
  🚧 The site is currently under construction 🚧. 
-LOOOOLLLLL
+LOOOOLLLLL WHAT ABOUT NOW?
 
  
 Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems and sharing knowledge. Currently, I'm exploring range of activities, both academic and not. 
