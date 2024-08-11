@@ -15,7 +15,6 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOMM4LzM4ChiKT',
       }
     }),
-    Component.MobileOnly(Component.Explorer()),
   ],
   footer: Component.Footer({
     links: {
@@ -45,6 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.Explorer()),
     Component.Backlinks(),
   ],
 
@@ -59,7 +59,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
-    // Component.Explorer(),
+
   ],
   right: [],
 }
