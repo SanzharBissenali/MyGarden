@@ -1,6 +1,7 @@
 ---
 title: Newtons' laws
-draft:
+draft: 
+date: 2024-08-12
 ---
 ### Newton's laws
 ---
