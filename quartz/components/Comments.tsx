@@ -10,7 +10,8 @@ type Options = {
     repoId: string
     category: string
     categoryId: string
-    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
+    mapping:"pathname"
+    // mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
     strict?: boolean
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
