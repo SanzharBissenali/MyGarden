@@ -42,3 +42,4 @@ F_{\theta} = m(r\ddot{\theta} + 2\dot{r}\dot{\theta})
 $$
 Recall what each term **means**.
 
+Problems to solve in [[Newton's law Problems]].
