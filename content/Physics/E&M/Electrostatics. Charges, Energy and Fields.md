@@ -3,6 +3,7 @@ title: Electrostatics. Charges, Energy and Fields
 draft: false
 tags:
   - physics
+  - Electricity
 ---
 If we have two charges $q_1, q_2$ , then the interaction between them is described by Coulomb's law.
 

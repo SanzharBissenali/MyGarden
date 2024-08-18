@@ -3,6 +3,7 @@ title: Electrostatics. Flux and Gauss's law
 draft: false
 tags:
   - physics
+  - Electricity
 ---
 We define the flux of a field through some surface as:
 

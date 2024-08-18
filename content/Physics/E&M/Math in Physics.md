@@ -3,6 +3,7 @@ title: Math in Physics
 draft: false
 tags:
   - physics
+  - Electricity
 ---
  
 ### Divergence

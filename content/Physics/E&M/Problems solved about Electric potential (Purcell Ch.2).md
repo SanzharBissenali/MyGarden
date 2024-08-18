@@ -4,6 +4,7 @@ draft: false
 tags:
   - physics
   - problems
+  - Electricity
 ---
 
 **List of Problems solved in Chapter 2**

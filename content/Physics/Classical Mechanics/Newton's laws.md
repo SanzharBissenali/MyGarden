@@ -2,6 +2,8 @@
 title: Newtons' laws
 draft: 
 date: 2024-08-12
+tags:
+  - physics
 ---
 ### Newton's laws
 ---

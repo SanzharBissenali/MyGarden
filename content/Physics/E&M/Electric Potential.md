@@ -2,7 +2,7 @@
 title: Electric Potential
 draft: false
 tags:
-  - physics
+  - Electricity
 ---
  We can define a scalar quantity $\phi$ to be the line integral of $\textbf{E}$ between two point:
 

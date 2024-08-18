@@ -4,6 +4,7 @@ draft: false
 tags:
   - physics
   - problems
+  - Electricity
 ---
 **List of problems to solve in Purcell Chapter 1.**
 
