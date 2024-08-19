@@ -1,3 +1,10 @@
+---
+title: Simple Linear Regression
+date: 2024-07-10
+tags:
+  - StatLearning
+---
+
 Assume we have a single predictor variable $X$ and quantitative response $Y$. We assume that there is a relation between them s.t.
 
 $$

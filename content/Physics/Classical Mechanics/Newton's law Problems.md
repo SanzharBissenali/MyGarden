@@ -30,4 +30,3 @@ An important concept from 3.17 & 3.18 is to imagine the path on object in a reve
 - [ ] 3.50
 - [ ] 3.53
 - [ ] 3.71
-B

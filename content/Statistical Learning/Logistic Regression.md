@@ -1,3 +1,9 @@
+---
+title: Logistic Regression
+tags:
+  - StatLearning
+---
+
 ### Why not Linear Regression ?
 ---
 Imagine that a response is qualitative. Then Linear Regression ([[Simple Linear Regression]]) does not perform as well as it does for quantitative for at least two reasons:
