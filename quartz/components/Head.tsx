@@ -20,6 +20,7 @@ export default (() => {
 
     return (
       <head>
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="6a5c7755-7fc8-4e5d-ae53-294fb06998f2"></script>
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
