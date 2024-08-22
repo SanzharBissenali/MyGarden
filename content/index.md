@@ -1,8 +1,6 @@
 ---
 title: Sanzhar's notebook
 ---
-  🚧 The site is currently under construction 🚧. 
- 
 Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems and sharing knowledge. Currently, I'm exploring range of activities, both academic and not. 
 Throughout the last year, my interests shifted from organic chemistry to physics and statistics, mainly because of people I've met at [Caltech](https://web.mit.edu).
 

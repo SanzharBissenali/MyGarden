@@ -10,12 +10,12 @@ tags:
 #### 1st Law
 A body moves with a constant $v$ unless acted by a force. The statement gives us a definition of an *inertial frame*, where 1st law holds. 
 #### 2nd Law
-Newton's second law $\textbf{F} = m \textbf{a}$ is not just a Force definition, but it has some real-world implication, as shown in the textbook in contrast to made-up definition. By the way, argue why $\textbf{F} = m \textbf{v}$ can't be true?
+Newton's second law $\textbf{F} = m \textbf{a}$ is not just a Force definition, but it has some real-world implications, as shown in the textbook in contrast to a made-up definition. By the way, argue why $\textbf{F} = m \textbf{v}$ can't be true?
 #### 3rd Law
-Interestingly, the third law is equivalent to **conservation of momentum**! If we have particles that interact with each other only:
+Interestingly, the third law is equivalent to the **conservation of momentum**! If we have particles that interact with each other only:
 
 $$
-\frac{dp_t}{dt}= \frac{dp_1}{dt} + \frac{dp_2}{dt} = \textbf{F}_1 + \textbf{F}_2
+\frac{dp_t}{dt}= \frac{dp_1}{dt} + \frac{dp_2}{dt} = \textbf{F}_1 + \textbf{F}_2 = 0
 $$
 #### Atwood's machine
 Problems on this topic rely on just writing down $F=ma$ equation and using conservation of string fact. Recall the simplest case where $a_1 = -2a_2$
