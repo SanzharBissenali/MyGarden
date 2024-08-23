@@ -1,3 +1,9 @@
+---
+title: Обсерватория Грифитта
+date: 2024-08-23
+tags:
+  - notes
+---
 На днях я посетил [Обсерваторию Грифитта](https://en.wikipedia.org/wiki/Griffith_Observatory)(картинки получше) во вторый раз.
 ![[Griffith_Front.png|600]]
 
