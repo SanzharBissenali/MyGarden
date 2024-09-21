@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"2c3b063a86565c4b","type":"file","file":"content/Physics/Classical Mechanics/Newton's laws.md","x":-1200,"y":-1040,"width":700,"height":640},
-		{"id":"828eb0292978af94","x":120,"y":-1720,"width":880,"height":821,"type":"file","file":"content/Physics/Classical Mechanics/Conservation of Energy.md"}
-	],
-	"edges":[
-		{"id":"e79cd3de5218606a","fromNode":"2c3b063a86565c4b","fromSide":"right","toNode":"828eb0292978af94","toSide":"left"}
-	]
-}
