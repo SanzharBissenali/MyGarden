@@ -25,8 +25,8 @@ An important concept from 3.17 & 3.18 is to imagine the path on object in a reve
 - [ ] 3.32
 - [ ] 3.33
 - [ ] 3.36
-- [ ] 3.44
-- [ ] 3.47
+- [x] 3.44: Newton's apple: the proof you'll never forget.
+- [x] 3.47: Hit the wall.
 - [ ] 3.50
 - [ ] 3.53
-- [ ] 3.71
+- [ ] 3.71: In a circular motion, you can write $F_r = mv^2/r$, $F_t = mr\ddot{\theta} = ma$  

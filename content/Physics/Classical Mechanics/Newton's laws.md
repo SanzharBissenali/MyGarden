@@ -23,8 +23,6 @@ Problems on this topic rely on just writing down $F=ma$ equation and using conse
 
 #### Fall with a drag
 The differential equation is $ma = -mg - m\alpha v$. From this, we can get $v(t), y(t)$. The limiting case for large $t$ suggests that an object reaches a *terminal velocity*, $v = -g/\alpha$. In free fall, we discover that *all objects fall at the same rate independent of their mass*. However, if we consider drag, then $m$ plays a role! But we don't notice it because in a thin medium drag is a minor effect. Btw, solving the equation and deriving is not hard.
-
-
 ### Motion 
 ---
 #### Fall with a drag
@@ -35,7 +33,7 @@ $$ 0 = \ddot{x} \enspace \enspace \enspace \enspace \enspace \ddot{y} = - g$$
 From this you can derive two sets of equations for velocity and position. An *interesting problem* arises when the **ground is inclined**. Can you recall the key idea to solve it?
 ### Polar coordinates
 ---
-It might be a good question to ask how F=ma looks in polar coordinates. The derivation is quite tedious, but you should have a sketch in your mind. You start with defining $\hat{r}, \hat{\theta}$ and taking derivatives. Remember that you need to differentiate $\vec{r} = r \cdot \hat{r}$.  The result is 
+It might be a good question to ask how F=ma looks in polar coordinates. The derivation is quite tedious, but you should have a sketch in your mind. You start by defining $\hat{r}, \hat{\theta}$ and taking derivatives. Remember that you need to differentiate $\vec{r} = r \cdot \hat{r}$.  The result is 
 $$
 F_r = m(\ddot{r}- r\dot{\theta}^2)
 $$
