@@ -2,8 +2,8 @@
 title: First Order Differential Equations
 date: 2024-10-14
 tags:
+  - DFQ
 ---
-
 ### First Order DFQ with constants 
 We can write a general first order differential equation (DFQ) as:
 $$
@@ -77,3 +77,4 @@ y = \frac{1}{\mu(x)}\int f(x)\cdot \mu(x)\mathrm{d}x\; +C \mu(x)^{-1}
 \end{gather}
 $$
 
+The next interesting topic is the actual application of these tools to real life problems - [[Modeling with First Order DFQ]]
