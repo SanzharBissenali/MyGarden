@@ -1,8 +1,11 @@
 ---
 title: Sanzhar's notebook
 ---
-Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems, and sharing knowledge. Currently, I'm exploring a range of activities, both academic and not. 
-Throughout the last year, my interests shifted from organic chemistry to physics and statistics, mainly because of people I've met at [Caltech](https://web.mit.edu).
+<div class="cf">
+    <img src="https://website-vedro.s3.us-east-2.amazonaws.com/picture/IMG_8545.JPG" width="100px" />
+    <div class="text">Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems, and sharing knowledge. Currently, I'm exploring a range of activities, both academic and not. 
+Throughout the last year, my interests shifted from organic chemistry to physics and statistics, mainly because of people I've met at <a href="https://web.mit.edu">Caltech</a> </div>
+</div>
 
 The site is currently being built, but here are some interesting stuff:
 - Physics, my notes from reading Purcell (E&M, [[Electric Potential]]), and Morin's Classical Mechanics ([[Coupled Oscillator & Problems]])
@@ -11,8 +14,7 @@ The site is currently being built, but here are some interesting stuff:
 
 
 <div class="cf">
-    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Balzac.jpg/220px-Balzac.jpg" width="100px" />
+    <img src="https://website-vedro.s3.us-east-2.amazonaws.com/picture/IMG_8545.JPG" width="100px" />
     <div class="text">some text here</div>
 </div>
-
 
