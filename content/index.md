@@ -1,11 +1,24 @@
 ---
 title: Sanzhar's notebook
 ---
-<div class="cf">
-    <img src="https://website-vedro.s3.us-east-2.amazonaws.com/picture/IMG_8545.JPG" width="100px" />
-    <div class="text">Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems, and sharing knowledge. Currently, I'm exploring a range of activities, both academic and not. 
-Throughout the last year, my interests shifted from organic chemistry to physics and statistics, mainly because of people I've met at <a href="https://web.mit.edu">Caltech</a> </div>
+<style> 
+	.container { 
+display: flex; 
+align-items: center; 
+justify-content: center 
+} 
+.text { 
+padding-right: 5%; 
+font-size: 17px;
+} 
+
+</style>
+<div class="container"> 
+	<div class="text">Hey, My name is Sanzhar Bissenali! I enjoy learning, solving interesting (usually hard) problems, and sharing knowledge. Currently, I'm exploring a range of activities, both academic and not. Throughout the last year, my interests shifted from organic chemistry to physics and statistics, mainly because of people I've met at <a href="https://www.mit.edu">Caltech</a>
+	</div> 
+	<img src="https://website-vedro.s3.us-east-2.amazonaws.com/picture/DSC_0148.JPG" width="300px" />
 </div>
+
 
 The site is currently being built, but here are some interesting stuff:
 - Physics, my notes from reading Purcell (E&M, [[Electric Potential]]), and Morin's Classical Mechanics ([[Coupled Oscillator & Problems]])
@@ -13,8 +26,5 @@ The site is currently being built, but here are some interesting stuff:
 - Essays or idea dumps (in Russian), where I just talk about my life experiences ([[Zachem Ya Vedu Blog]], [[My Courses Fall term]], [[Nu i kuda ti poidesh s fizikoi?]], ).
 
 
-<div class="cf">
-    <img src="https://website-vedro.s3.us-east-2.amazonaws.com/picture/IMG_8545.JPG" width="100px" />
-    <div class="text">some text here</div>
-</div>
+
 
