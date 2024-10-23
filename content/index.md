@@ -10,6 +10,14 @@ The site is currently being built, but here are some interesting stuff:
 - Essays or idea dumps (in Russian), where I just talk about my life experiences ([[Zachem Ya Vedu Blog]], [[My Courses Fall term]], [[Nu i kuda ti poidesh s fizikoi?]], ).
 
 
+<div class="me">
+<img src="https://yeet.ellie.wtf/i/f449b641480701bb19587f55672ac7e5bc94847a2d6df66cb5565bc2843e68a2.jpg"/>
+</div>
+
+</div>
+
+
+
 
 
 
