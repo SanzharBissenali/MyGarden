@@ -7,6 +7,4 @@ Throughout the last year, my interests shifted from organic chemistry to physics
 The site is currently being built, but here are some interesting stuff:
 - Physics, my notes from reading Purcell (E&M, [[Electric Potential]]), and Morin's Classical Mechanics ([[Coupled Oscillator & Problems]])
 - Statistical learning ([[Bias-Variance Trade-off]]), my notes from [Intro to SL](https://www.statlearning.com)
-- Essays or idea dumps (in Russian), where I just talk about my life experiences ([[Zachem Ya Vedu Blog]], [[My Courses Fall term]], [[Nu i kuda ti poidesh s fizikoi?]], ).
-
-<h1>An article header</h1><p> Some content </p>
+- Essays or idea dumps (in Russian), where I just talk about my life experiences ([[Zachem Ya Vedu Blog]], [[My Courses Fall term]], [[Nu i kuda ti poidesh s fizikoi?]] ).
