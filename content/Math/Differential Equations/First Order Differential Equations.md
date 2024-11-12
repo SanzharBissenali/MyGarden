@@ -1,8 +1,6 @@
 ---
 title: First Order Differential Equations
-date: 2024-10-14
 tags:
-  - DFQ
 ---
 ### First Order DFQ with constants 
 We can write a general first order differential equation (DFQ) as:

@@ -31,7 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.RecentNotes({ title: "Recent writing" }),
+    
 
   ],
   left: [
@@ -40,6 +40,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+  
+    
   ],
   right: [
     Component.Graph(),
