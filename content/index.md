@@ -20,7 +20,7 @@ font-size: 17px;
     <!-- This image won't show on screens smaller than 768px -->
     <source srcset="https://website-vedro.s3.us-east-2.amazonaws.com/picture/DSC_0148.JPG" media="(min-width: 768px)" width ="1400px">
     <!-- You can optionally provide a blank image or different mobile image -->
-    <img src="" alt="Description">
+    <img src="" hidden>
 	</picture>
 </div>
 
