@@ -1,5 +1,5 @@
 ---
-title: Intro to Complex Number
+title: Intro to Complex Numbers
 tags:
   - math
 date: 2025-01-07
@@ -13,6 +13,7 @@ $$
 ||z_1| - |z_2| |\leq |z_1+z_2| \leq |z_1| +|z_2|
 $$
 ![[ACM95-Triangle-Inequality.jpeg|600]]
+
 Since we can represent a complex number $z$ in two dimension using $x,y$ coordinates, we also can use **Polar Coordinates**.
 ### Polar Coordinates
 We use $r, \theta$, so $x = r \cos(\theta)$, $y = r \sin(\theta)$, where $r = \sqrt{x^2+y^2}$, but calculating $\theta$ is a little tricky. Given $x,y$ we can find a particular $\theta_0$. However, then $\theta_0 + 2\pi n$ for $n \in Z$ also works perfectly - we have infinite possibilities for $\theta$. To speak about one theta, we look inside a particular interval. For example, $[-\pi, \pi]$ is the most popular choice, and we denote it as $\theta = Arg(z) = arg_{-\pi}(z)$.
@@ -37,7 +38,9 @@ $$
 e^{i\theta} = \cos(\theta) + i \sin(\theta)
 $$
 Which means that our initial expression can be written compactly as $z = re^{i\theta}$. The elegant way to think about this expansion is in the picture below:
+
 ![[ACM95-Euler-Formula.jpeg|600]]
+
 Using this form of $z$ it's much easier to multiply and divide. Thinking with vectors, what *operation* multiplication and division represent in the complex plane?
 
 
