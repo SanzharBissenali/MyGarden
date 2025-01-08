@@ -16,7 +16,7 @@ p_{a}(t) - p_{a}(0) = \int_0^t F_{ab} \cdot dt \\
 p_a(t) - p_a(t) = - p_b(t) + p_b(0) \\
 p_a(t) + p_a(t) = p_a(0) + p_b(0)
 \end{gather}
-$$This is the conservation law, which also holds for 3,4 and n particles.
+$$This is the conservation law, which also holds for 3, 4 and n particles.
 
 ---
 #### Rocket movement 
