@@ -1,7 +1,7 @@
 ---
 title: Intro to Complex Numbers
 tags:
-  - math
+  - complex-numbers
 date: 2025-01-07
 ---
 Complex numbers have Real and Imaginary parts $z = x + yi$. The addition and multiplication are intuitive, while division is a little tricky:

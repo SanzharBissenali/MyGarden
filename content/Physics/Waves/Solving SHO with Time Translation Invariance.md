@@ -1,7 +1,6 @@
 ---
 title: Solving SHO with Time Translation Invariance
 tags:
-  - physics
   - waves
 date: 2024-12-24
 ---
@@ -49,6 +48,7 @@ m\cdot \cancel{x(0)} \cdot \cancel{e^{\alpha t}} \cdot \alpha^2 = -k\cdot \cance
 \alpha = \pm iw
 \end{gather}
 $$
+
 where the imaginary arises **naturally**! So, the solution is well-known $x(t) = x(0) \cdot e^{\pm i\omega t}$. The only way to make sense of it is to have a linear combination
 $$
 x(t) = a e^{i\omega t} + be^{-i\omega t}
