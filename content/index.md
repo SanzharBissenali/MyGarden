@@ -25,8 +25,9 @@ font-size: 17px;
 </div>
 
 The most recent notes:
+- [[Using Symmetry to Solve Electrical Circuits]]
+- [[Coupled Oscillator]]
 - [[Kak zhe slozhno uchit' chto-to novoe]] (in russian)
-- [[Modeling with First Order DFQ]]
 
 Some notes you may find interesting:
 - Physics, my notes from reading Purcell (E&M, [[Electric Potential]]), and Morin's Classical Mechanics ([[Coupled Oscillator & Problems]])
