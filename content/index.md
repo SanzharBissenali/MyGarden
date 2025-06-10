@@ -24,6 +24,9 @@ font-size: 17px;
 	</picture>
 </div>
 
+My thoughts on Books:
+ - [[Things Fall Apart, Chinua Achebe]]
+ 
 The most recent notes:
 - [[Using Symmetry to Solve Electrical Circuits]]
 - [[Coupled Oscillator]]
