@@ -26,6 +26,9 @@ font-size: 17px;
 
 My thoughts on Books:
  - [[Things Fall Apart, Chinua Achebe]]
+
+Playing on Dombyra
+- [[Some recordings of me playing on Dombyra]]
  
 The most recent notes:
 - [[Using Symmetry to Solve Electrical Circuits]]
