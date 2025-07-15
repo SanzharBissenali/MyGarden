@@ -29,6 +29,7 @@ I started this blog in the end of my freshman year with a clear goal - to record
 
 My thoughts on Books:
  - [[Things Fall Apart, Chinua Achebe]]
+ - [[And Then There Were None, Agatha Christie]]
 
 Playing on Dombyra
 - [[Playing Dombyra]]
