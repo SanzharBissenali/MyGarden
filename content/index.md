@@ -27,9 +27,14 @@ font-size: 17px;
 
 I started this blog in the end of my freshman year with a clear goal - to record how my views and tastes change over time. You may find more elaborate explanation here - [[Zachem Ya Vedu Blog]]. Below are some interesting (to me) collection of what I would love to share.
 
+Latest
+- [[Summer Research at Princeton]]
+- [[Death of Ivan Ilyich]]
+
 My thoughts on Books:
- - [[Things Fall Apart, Chinua Achebe]]
- - [[And Then There Were None, Agatha Christie]]
+- [[Death of Ivan Ilyich]]
+- [[Things Fall Apart, Chinua Achebe]]
+- [[And Then There Were None, Agatha Christie]]
 
 Playing on Dombyra
 - [[Playing Dombyra]]
