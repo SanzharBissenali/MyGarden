@@ -39,7 +39,7 @@ My thoughts on Books:
 Playing on Dombyra
 - [[Playing Dombyra]]
  
-The most recent notes:
+My general notes:
 - [[Pochemu Himiya ne dlya menya]]
 - [[Kak zhe slozhno uchit' chto-to novoe]] 
 - [[Stoit li uchitsya za granicei]]
