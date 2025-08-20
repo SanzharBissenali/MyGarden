@@ -30,6 +30,7 @@ I started this blog in the end of my freshman year with a clear goal - to record
 Latest
 - [[Summer Research at Princeton]]
 - [[Death of Ivan Ilyich]]
+- [[Quotes]]
 
 My thoughts on Books:
 - [[Death of Ivan Ilyich]]
