@@ -1,0 +1,36 @@
+{
+  "markers": [
+    {
+      "id": "almaty-home",
+      "coordinates": [76.8512, 43.222],
+      "title": "Almaty, Kazakhstan",
+      "description": "My hometown, the largest city in Kazakhstan nestled at the foot of the Tian Shan mountains. Known for its apples, beautiful nature, and as the former capital.",
+      "category": "location",
+      "image": null
+    },
+    {
+      "id": "caltech-pasadena",
+      "coordinates": [-118.1253, 34.1377],
+      "title": "Caltech, Pasadena",
+      "description": "California Institute of Technology - where I'm pursuing my studies in Physics. A place of incredible scientific discovery and innovation.",
+      "category": "important",
+      "image": "/Pictures/Caltech_resilience.png"
+    },
+    {
+      "id": "griffith-observatory",
+      "coordinates": [-118.3004, 34.1184],
+      "title": "Griffith Observatory",
+      "description": "One of my favorite places in LA. Amazing views of the city and great for stargazing. A perfect blend of science and beauty.",
+      "category": "note",
+      "image": "/Pictures/Griffith_View.jpg"
+    },
+    {
+      "id": "princeton-research",
+      "coordinates": [-74.6514, 40.3573],
+      "title": "Princeton University",
+      "description": "Where I conducted summer research. An incredible academic environment with world-class facilities and brilliant minds.",
+      "category": "important",
+      "image": null
+    }
+  ]
+}
