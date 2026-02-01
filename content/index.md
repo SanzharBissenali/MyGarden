@@ -25,7 +25,11 @@ font-size: 17px;
 	</picture>
 </div>
 
-I started this blog in the end of my freshman year with a clear goal - to record how my views and tastes change over time. You may find more elaborate explanation here - [[Zachem Ya Vedu Blog]]. Below are some interesting (to me) collection of what I would love to share.
+I started this blog in the end of my freshman year with a clear goal - to record how my views and tastes change over time. You may find more elaborate explanation here - [[Zachem Ya Vedu Blog]].
+
+Lately, I have become increasingly interested in **Understanding Deep Learning and Mechanistic Interpretability**. I'm following Neel Nanda's guide to getting into the field, and I'll share my progress in the Mech. Interp. folder. Hopefully, when(or if) I get to the frontiers, it will be helpful information for beginners
+
+Below are some interesting (to me) collection of what I would love to share.
 
 Latest
 - [[Risk]]
