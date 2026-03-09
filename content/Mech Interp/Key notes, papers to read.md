@@ -12,3 +12,7 @@ https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-
 
 https://transformer-circuits.pub/2021/framework/index.html
 
+[Intepretability in the Wild - Video walkthrough](https://www.youtube.com/watch?v=gzwj0jWbvbo
+[Mech interp is not pre-paradigmatic](https://www.alignmentforum.org/posts/beREnXhBnzxbJtr8k/mech-interp-is-not-pre-paradigmatic) by Lee Sharkey
+
+
