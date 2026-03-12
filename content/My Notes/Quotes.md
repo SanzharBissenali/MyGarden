@@ -2,10 +2,22 @@
 title: Quotes
 date: 2025-08-19
 ---
-Inspired by the list of quotes collected by Paul Graham, I decided to start collecting quotes myself. Incidentally, some quotes would be given in Russian or Kazakh languages. 
+Inspired by the list of quotes collected by Paul Graham, I decided to start collecting quotes myself. Incidentally, some quotes would be given in Russian or Kazakh languages.
+
+> [!tip] #007
+> **7p's from British Army**:
+> "Proper Planning and Preparation Prevents Piss Poof Performance"
+> Date: March 2026
+
+> [!quote] #006
+> ** *You and Your Research * **:
+> "Over on the other side of the dining hall was a chemistry table. I had worked with one of the fellows, Dave McCall; furthermore he was courting our secretary at the time. I went over and said, "Do you mind if I join you?" They can't say no, so I started eating with them for a while. And I started asking, "**What are the important problems of your field?**" And after a week or so, "What important problems are you working on?" And after some more time I came in one day and said, "**If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?**" I wasn't welcomed after that; I had to find somebody else to eat with!"
+> — **Richard Wesley Hamming** <br/>
+Date: February 2026
+
 
 > [!Success] #005
-> **MANHOOD**: <br/>
+> **MANHOOD**:
 > "A man's usefulness depends upon his living up to his ideals insofar as he can."
 > "It is hard to fail but it is worse never to have tried to succeed."
 > "All daring and courage, all iron endurance of misfortune make for a finer, nobler type of manhood."
