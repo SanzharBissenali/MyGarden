@@ -1,0 +1,29 @@
+---
+title: Why Chemistry Isn't For Me
+date: 2025-07-08
+tags:
+  - notes
+translation: ru/Заметки/Почему химия не для меня
+---
+Even though I'm someone who thought, and still thinks, that J. Clayden's "Organic Chemistry" is one of the best-written educational books out there (just by reading this one book you almost become an expert in the field), and that organic chemistry on paper is the most elegant area of chemistry, I can say for sure that organic chemistry isn't for me — and probably won't suit a lot of former olympiad kids either. I should clarify that I mean experimental organic chemistry (which corresponds to most labs working in organic chem). In this post, I'll try to explain how I realized organic chem isn't for me, how I make sense of it for myself, and what replacement I found for organic chem and chemistry in general.
+
+#### The SURF Program
+Caltech has an amazing program called SURF — (Summer Undergraduate Research Fellowship), which lets you work in some lab for 10 weeks during the summer. After my first year, I started working in the [Stoltz](https://www.stoltz.caltech.edu) lab, where my summer project was related to the development of [Michael Spirocyclization of Palladium Enolates](https://pubs.acs.org/doi/10.1021/acscatal.5c02758). The gist was preparing substrates to test the new reaction, and as a side-quest I was trying to synthesize Clovane using the scheme below, using the new reaction (in order to show that it's useful). As a former organic chemist, I can't not share the synthesis scheme I proposed, which, unfortunately, didn't succeed.
+
+![[Clovane_synthesis.png.png|700]]
+#### How I felt while working in the lab
+Somewhere toward the end of week 2 I realized something was bothering me about this work. Some feeling inside me wouldn't let me be. For some reason, I started looking at the clock waiting for the workday to end, which was a shock for me. I had almost always studied chemistry out of genuine desire, and here it was the opposite. More and more often, thoughts like: "It's about to be 5 PM and I'll go home" popped into my head, which not only made me uncomfortable, but actually pissed me off. But why was I getting all these feelings from what seemed like my dream job? I can find several reasons.
+
+#### Why?
+**First** — the mismatch between experimental organic chemistry and the image I'd built up from chemistry olympiads. I thought that organic chem was about drawing beautiful structures, working on retrosynthesis, reading the literature looking for the right reaction, and using your knowledge and ingenuity to the fullest. Sure, all these aspects were there, but their concentration was so small that it couldn't quench my thirst. The average day of an organic chemist mostly consists of running one or two reactions, column chromatography, and NMR analysis to figure out what kind of potion you brewed. And here I think it's appropriate to compare running a chemical reaction with potion-brewing, because in many cases, if you want to synthesize something more or less non-trivial, then god willing your reaction works. And even in that case, you don't come up with the reaction or pick the reagents yourself — you look in a database to see whether someone has run a similar reaction so you can take their protocol.
+
+It's a fair and correct observation that obviously a person should check whether someone has already run a similar reaction, to save time, reagents, and resources. Why reinvent the wheel if the goal of your research is a completely different topic anyway, and the reagent is just necessary as an intermediate. And yes, actually the problem was with me, or more precisely with my inflated expectations! As they say, *your expectations are your problem.*
+
+From olympiad problems, I had literally romanticized total synthesis as the peak of human ingenuity. In reality, though, most reactions in the chain are already known, and you literally need to make the shit work for a few key stages. This can take years, hundreds of reactions, various reagents and conditions — and that's the essence of experimental chemistry. I think if every step in every organic chem problem listed how many attempts, how much time, how many columns and how many nerves it took to reproduce, my picture might have been different. But all the same, these were my inflated expectations, which turned out to be false.
+
+**Second** — experimental organic chemistry practically doesn't use math, physics, or programming. Thanks to Caltech's core curriculum, I realized that I really enjoy studying the subjects above, and at the same time I realized that I can get pretty good at them. So I'd want my work to involve using skills from physics and math. Unfortunately, in organic chem they're not needed at all, and for me that was a big minus, because I felt that knowledge of other subjects was my strong side — but in this field I can't put that skill to use.
+
+**Third** — the lack of any interesting forks in the road of the experimental chemist. This point is fairly subjective (what's an "interesting fork," for instance?), but I think it's largely true. What are the prospects for an organic chemist? Go for a PhD, later maybe become a professor (unlikely), or work in the chem industry (more likely), which is probably even less interesting than a PhD in organic chem itself.
+I'd want there to be more nonlinear, unusual, adventurous options.
+
+In short, organic chem felt to me more like potion-brewing that doesn't use math and physics, and that leads down a linear road to a job at a pharmaceutical company. For exactly these reasons, I realized it was time to bail from a sinking (for me) boat. And where I crossed over for now — that'll be in the next post.

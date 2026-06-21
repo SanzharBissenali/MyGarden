@@ -2,11 +2,18 @@
 title: Quotes
 date: 2025-08-19
 ---
-Inspired by the list of quotes collected by Paul Graham, I decided to start collecting quotes myself. Incidentally, some quotes would be given in Russian or Kazakh languages.
+Inspired by the list of quotes Paul Graham compiled, I decided to start collecting them myself. Incidentally, some quotes would be given in Russian or Kazakh languages.
+
+
+> [!quote] #007
+> **Bible, James 3:3-6**:
+> In English: "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body. Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth. Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
+> In Russian: "Вот, мы влагаем удила в рот коням, чтобы они повиновались нам, и управляем всем телом их. Вот, и корабли, как ни велики они и как ни сильными ветрами носятся, небольшим рулем направляются, куда хочет кормчий. Так и язык — небольшой член, но много делает. Посмотри, небольшой огонь как много вещества зажигает!"
+> Date: March 2026
 
 > [!tip] #007
 > **7p's from British Army**:
-> "Proper Planning and Preparation Prevents Piss Poof Performance"
+> "Proper Planning and Preparation Prevents Piss Poor Performance"
 > Date: March 2026
 
 > [!quote] #006

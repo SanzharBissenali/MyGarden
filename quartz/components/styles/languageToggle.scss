@@ -1,0 +1,20 @@
+.language-toggle {
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+  text-align: right;
+
+  a {
+    color: var(--gray);
+    text-decoration: none;
+    padding: 0.25rem 0.6rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    transition: background-color 0.15s ease, color 0.15s ease;
+    background-image: none;
+
+    &:hover {
+      background-color: var(--lightgray);
+      color: var(--dark);
+    }
+  }
+}
